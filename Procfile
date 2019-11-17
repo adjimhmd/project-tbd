@@ -1,1 +1,1 @@
-worker: python TweetStreaming.py
+worker: python2.7 TweetStreaming.py
